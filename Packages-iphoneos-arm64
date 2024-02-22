@@ -1,14 +1,14 @@
 Package: com.joshua.volumeflex
-Version: 0.0.4-1
+Version: 0.0.4-2
 Architecture: iphoneos-arm64
 Maintainer: Joshua Wheeler
 Installed-Size: 544
-Depends: mobilesubstrate (>= 0.9.5000), libflex
-Filename: debs/iphoneos-arm64/com.joshua.volumeflex_0.0.4-1_iphoneos-arm64.deb
-Size: 64416
-MD5sum: 81b7420cd4532a410b948dd342b3fc89
-SHA1: 89a0e7a8961740560f6a6438c4e67b2aff19cef3
-SHA256: 287d6b70996659e365667c046aff0b63dd19ba563f2dd32b820f161aa1d4cbde
+Depends: mobilesubstrate (>= 0.9.5000), libvolumeflex
+Filename: debs/iphoneos-arm64/com.joshua.volumeflex_0.0.4-2_iphoneos-arm64.deb
+Size: 64588
+MD5sum: 61f62386a84de2d02bc1802fedd2ba95
+SHA1: 838f3615ca82d2511d16eb8f5345a1bf520e3c68
+SHA256: abc101d92a4fcc16d2186cd3c6f5dd27e61d5108d5b9b758043fbd000900096c
 Section: Tweaks
 Description: The world dosen't need another FLEX loader but people with fat fingers do.
 Author: Joshua Wheeler
