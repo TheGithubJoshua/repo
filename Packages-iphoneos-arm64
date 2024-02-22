@@ -15,16 +15,16 @@ Author: Joshua Wheeler
 Name: VolumeFLEX
 
 Package: libvolumeflex
-Version: 0.0.1
-Architecture: iphoneos-arm
+Version: 4.7.0~b4-1+debug
+Architecture: iphoneos-arm64
 Maintainer: Tanner Bennett <tannerbennett@me.com>
-Installed-Size: 2844
+Installed-Size: 6084
 Pre-Depends: firmware (>= 9.0)
-Filename: debs/iphoneos-arm64/libvolumeflex_0.0.1_iphoneos-arm.deb
-Size: 629714
-MD5sum: 340f0d972dc86fe3a925aab01fca4606
-SHA1: 765ea9a0e9e3bc0a5c3c095c1c48faaf30769b07
-SHA256: f805cc48d2a0fdc937d49a5d7c1ad72f26be4f72900409a5f05bf7d25ed85c76
+Filename: debs/iphoneos-arm64/libvolumeflex_4.7.0~b4-1+debug_iphoneos-arm64.deb
+Size: 1382622
+MD5sum: 09b3983a854761b07ac6c667edd9b859
+SHA1: dc1a619312e275a7b575cd2f274661ecbe638a75
+SHA256: 05b22badab99dfea430e7c37c2c27ff6573c292f343b0cd498c72d24f5da21e9
 Section: Tweaks
 Description: A library for Flipboard Explorer.
 Author: Tanner Bennett <tannerbennett@me.com>
