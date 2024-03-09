@@ -21,15 +21,15 @@ Maintainer: Tanner Bennett <tannerbennett@me.com>
 Installed-Size: 2844
 Pre-Depends: firmware (>= 9.0)
 Filename: debs/iphoneos-arm64/libflex_0.0.2_iphoneos-arm64.deb
-Size: 631872
-MD5sum: 66159b7b6c0827edb1f5bfb8452221d1
-SHA1: cb0bf58f1a004f37bae963f3a5b1a9eeb28f7f3a
-SHA256: 47cf5af1c0f9837390521c327830b17983c969eefdaedd4fd6187994da0d3637
+Size: 633554
+MD5sum: e10842f06194f1c65832284adf7a7f8e
+SHA1: 90cadd518da15dc7619c8c14d8cfe1a228bad9a2
+SHA256: 7cca4f03624dad8896fbf20e0594501fefed21a6b58ab3645ec8a172c288bcab
 Section: Tweaks
 Description: A library for Flipboard Explorer.
 Author: Tanner Bennett <tannerbennett@me.com>
 Depiction: https://nscake.github.io/package.html?package=libflex
-Name: libFLEX
+Name: libVolumeFLEX
 Sileodepiction: https://nscake.github.io/depictions/libflex.sileo.json
 
 Package: libvolumeflex
@@ -38,16 +38,15 @@ Architecture: iphoneos-arm64
 Maintainer: Tanner Bennett <tannerbennett@me.com>
 Installed-Size: 2844
 Pre-Depends: firmware (>= 9.0)
-Conflicts: libflex
 Filename: debs/iphoneos-arm64/libvolumeflex_0.0.2_iphoneos-arm64.deb
-Size: 631128
-MD5sum: 933b036e94bb2d194f805ffcdcd4fa82
-SHA1: d68a8e3e02b27cea946a067e34f145166f3fdb40
-SHA256: 55f1846f749314a9305f82cacbc9df094bbf265cf4e0da46e5cbe185f4cf0555
+Size: 632364
+MD5sum: 1e72ee085151c22fb7264429a0c60430
+SHA1: db1a9bff6086226464b71ef640e28f239091bec8
+SHA256: 0f98bb56e78b3fba493d6b7fa875fd36f13cf1a52dc5e2b0be656fc431a0921f
 Section: Tweaks
 Description: A library for Flipboard Explorer.
 Author: Tanner Bennett <tannerbennett@me.com>
 Depiction: https://nscake.github.io/package.html?package=libflex
-Name: libFLEX
+Name: libVolumeFLEX
 Sileodepiction: https://nscake.github.io/depictions/libflex.sileo.json
 
