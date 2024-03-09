@@ -1,30 +1,30 @@
 Package: com.joshua.volumeflex
-Version: 0.0.4-2
+Version: 0.0.5
 Architecture: iphoneos-arm
 Maintainer: Joshua Wheeler
 Installed-Size: 544
-Depends: mobilesubstrate (>= 0.9.5000), libflex
-Filename: debs/iphoneos-arm/com.joshua.volumeflex_0.0.4-2_iphoneos-arm.deb
-Size: 64486
-MD5sum: df3f53169ce78cb1b7233d71286460f3
-SHA1: 24de66e97e5ef70a8e8d05d7fd1461dd1d9238e8
-SHA256: 72607139f92258983ea9c951dab22211df50e327e280c49e746aef6a0d871db8
+Depends: mobilesubstrate (>= 0.9.5000), libvolumeflex
+Filename: debs/iphoneos-arm/com.joshua.volumeflex_0.0.5_iphoneos-arm.deb
+Size: 64416
+MD5sum: f79a48d4c1e5f3b7470177d969c28e02
+SHA1: 825b304b2cd33b6ff704800b32dbb2db0fb40201
+SHA256: 81c5deee0ae0f617d849b949437cd58fcc4e799f541101dd5071d04927b86523
 Section: Tweaks
 Description: The world dosen't need another FLEX loader but people with fat fingers do.
 Author: Joshua Wheeler
 Name: VolumeFLEX
 
 Package: com.joshua.volumeflex
-Version: 0.0.4-2
+Version: 0.0.5
 Architecture: iphoneos-arm64
 Maintainer: Joshua Wheeler
 Installed-Size: 544
 Depends: mobilesubstrate (>= 0.9.5000), libvolumeflex
-Filename: debs/iphoneos-arm64/com.joshua.volumeflex_0.0.4-2_iphoneos-arm64.deb
-Size: 64588
-MD5sum: 61f62386a84de2d02bc1802fedd2ba95
-SHA1: 838f3615ca82d2511d16eb8f5345a1bf520e3c68
-SHA256: abc101d92a4fcc16d2186cd3c6f5dd27e61d5108d5b9b758043fbd000900096c
+Filename: debs/iphoneos-arm64/com.joshua.volumeflex_0.0.5_iphoneos-arm64.deb
+Size: 64484
+MD5sum: 8e84591b155033ea3477fe4ca861faab
+SHA1: e2bbb2c39e240d50c134bdbbb92f648ff0964569
+SHA256: cbad46e1f979ca71c0d5fa86071278603f3b142522e743084b1361173aed71fd
 Section: Tweaks
 Description: The world dosen't need another FLEX loader but people with fat fingers do.
 Author: Joshua Wheeler
