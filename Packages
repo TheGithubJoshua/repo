@@ -30,6 +30,24 @@ Description: The world dosen't need another FLEX loader but people with fat fing
 Author: Joshua Wheeler
 Name: VolumeFLEX
 
+Package: libflex
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Tanner Bennett <tannerbennett@me.com>
+Installed-Size: 2844
+Pre-Depends: firmware (>= 9.0)
+Filename: debs/iphoneos-arm64/libflex_0.0.2_iphoneos-arm64.deb
+Size: 631872
+MD5sum: 66159b7b6c0827edb1f5bfb8452221d1
+SHA1: cb0bf58f1a004f37bae963f3a5b1a9eeb28f7f3a
+SHA256: 47cf5af1c0f9837390521c327830b17983c969eefdaedd4fd6187994da0d3637
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett <tannerbennett@me.com>
+Depiction: https://nscake.github.io/package.html?package=libflex
+Name: libFLEX
+Sileodepiction: https://nscake.github.io/depictions/libflex.sileo.json
+
 Package: libvolumeflex
 Version: 0.0.2
 Architecture: iphoneos-arm64
