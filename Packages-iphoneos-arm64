@@ -20,11 +20,12 @@ Architecture: iphoneos-arm64
 Maintainer: Tanner Bennett <tannerbennett@me.com>
 Installed-Size: 2844
 Pre-Depends: firmware (>= 9.0)
+Provides: libflex
 Filename: debs/iphoneos-arm64/libvolumeflex_0.0.2_iphoneos-arm64.deb
-Size: 632364
-MD5sum: 1e72ee085151c22fb7264429a0c60430
-SHA1: db1a9bff6086226464b71ef640e28f239091bec8
-SHA256: 0f98bb56e78b3fba493d6b7fa875fd36f13cf1a52dc5e2b0be656fc431a0921f
+Size: 629404
+MD5sum: ab3fb403a2bb2c7de0e6927083917927
+SHA1: fbfe11f34f84343438447ccfa8a36d1bf3601e02
+SHA256: 4f5b927b407b48ba53137170eb6629b0f21bf09f067bfa76b30cc0b10ba7ac84
 Section: Tweaks
 Description: A library for Flipboard Explorer.
 Author: Tanner Bennett <tannerbennett@me.com>
